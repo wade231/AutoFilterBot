@@ -13,8 +13,8 @@ I will take care of the rest. 😎"""
 ★ Library: <a href=https://pyrogram.org>Pyrogram</a>"""
 
     MY_OWNER_TXT = """★ Name: Ragnar Lothbrok
-★ Username: @ragnar_zxc
-★ ID: <code>5911954612</code>
+★ Username: @ragnarzxcbot
+★ ID: <code>69696969</code>
 ★ Country: Sri Lanka 🇱🇰"""
 
     STATUS_TXT = """🗂 Total Files: <code>{}</code>
